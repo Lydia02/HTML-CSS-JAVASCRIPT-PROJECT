@@ -1,2 +1,6 @@
 # HTML-CSS-JAVASCRIPT-PROJECT
-Few project I built while learning JavaScript.
+Few projects I built while learning JavaScript. They include;
+WallClock
+Calculator
+My Portfolio Website
+
